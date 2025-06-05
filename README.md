@@ -1,5 +1,10 @@
 # 🍃MINT: Memory-Infused Prompt Tuning at Test-time for CLIP
-This repository is official PyTorch implementation of 🍃MINT.
+This repository is official PyTorch implementation of our paper:    
+
+> MINT: Memory-Infused Prompt Tuning at Test-time for CLIP   
+> Authors: *Jiaming Yi, Ruirui Pan, Jishen Yang, Xiulong Yang*    
+
+For more details, please check out our [**paper**](https://arxiv.org/abs/2506.03190).
 ![Overview of our proposed Memory-Infused Prompt Tuning(MINT) framework at Test-time for CLIP](framework.png)
 
 ## Prerequisites
